@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Trabalhos\\Ano 1, Semestre 2\\IDJ\\TempratureConverter\\TempratureConverter.csproj": {}
+    "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\TempratureConverter\\TempratureConverter.csproj": {}
   },
   "projects": {
-    "D:\\Trabalhos\\Ano 1, Semestre 2\\IDJ\\TempratureConverter\\TempratureConverter.csproj": {
+    "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\TempratureConverter\\TempratureConverter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Trabalhos\\Ano 1, Semestre 2\\IDJ\\TempratureConverter\\TempratureConverter.csproj",
+        "projectUniqueName": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\TempratureConverter\\TempratureConverter.csproj",
         "projectName": "TempratureConverter",
-        "projectPath": "D:\\Trabalhos\\Ano 1, Semestre 2\\IDJ\\TempratureConverter\\TempratureConverter.csproj",
+        "projectPath": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\TempratureConverter\\TempratureConverter.csproj",
         "packagesPath": "C:\\Users\\ninaf\\.nuget\\packages\\",
-        "outputPath": "D:\\Trabalhos\\Ano 1, Semestre 2\\IDJ\\TempratureConverter\\obj\\",
+        "outputPath": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\TempratureConverter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ninaf\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -22,11 +22,15 @@ namespace TempratureConverter
                     unit = "Fahrenheit";
                     Console.WriteLine("{0} {1}", newTemprature, unit);
                 } 
-                else 
+                else if(unit == "Fahrenheit")
                 {
                     double newTemprature = Converter.ConvertCelsius(temprature);
                     unit = "Celsius";
                     Console.WriteLine("{0} {1}", newTemprature, unit);
+                }
+                else
+                {
+                    Console.WriteLine("Unit not found");
                 }
 
                 command = Console.ReadLine();
