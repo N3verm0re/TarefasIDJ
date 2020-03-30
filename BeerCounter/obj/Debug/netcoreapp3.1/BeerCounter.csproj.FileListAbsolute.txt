@@ -1,0 +1,13 @@
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\bin\Debug\netcoreapp3.1\BeerCounter.exe
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\bin\Debug\netcoreapp3.1\BeerCounter.deps.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\bin\Debug\netcoreapp3.1\BeerCounter.runtimeconfig.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\bin\Debug\netcoreapp3.1\BeerCounter.runtimeconfig.dev.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\bin\Debug\netcoreapp3.1\BeerCounter.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\bin\Debug\netcoreapp3.1\BeerCounter.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\obj\Debug\netcoreapp3.1\BeerCounter.csprojAssemblyReference.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\obj\Debug\netcoreapp3.1\BeerCounter.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\obj\Debug\netcoreapp3.1\BeerCounter.AssemblyInfoInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\obj\Debug\netcoreapp3.1\BeerCounter.AssemblyInfo.cs
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\obj\Debug\netcoreapp3.1\BeerCounter.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\obj\Debug\netcoreapp3.1\BeerCounter.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\BeerCounter\obj\Debug\netcoreapp3.1\BeerCounter.genruntimeconfig.cache
