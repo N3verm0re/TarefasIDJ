@@ -1,0 +1,13 @@
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\bin\Debug\netcoreapp3.1\InheritanceBookShop.exe
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\bin\Debug\netcoreapp3.1\InheritanceBookShop.deps.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\bin\Debug\netcoreapp3.1\InheritanceBookShop.runtimeconfig.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\bin\Debug\netcoreapp3.1\InheritanceBookShop.runtimeconfig.dev.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\bin\Debug\netcoreapp3.1\InheritanceBookShop.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\bin\Debug\netcoreapp3.1\InheritanceBookShop.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\obj\Debug\netcoreapp3.1\InheritanceBookShop.csprojAssemblyReference.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\obj\Debug\netcoreapp3.1\InheritanceBookShop.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\obj\Debug\netcoreapp3.1\InheritanceBookShop.AssemblyInfoInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\obj\Debug\netcoreapp3.1\InheritanceBookShop.AssemblyInfo.cs
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\obj\Debug\netcoreapp3.1\InheritanceBookShop.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\obj\Debug\netcoreapp3.1\InheritanceBookShop.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceBookShop\InheritanceBookShop\obj\Debug\netcoreapp3.1\InheritanceBookShop.genruntimeconfig.cache

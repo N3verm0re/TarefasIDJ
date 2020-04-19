@@ -1,0 +1,13 @@
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\bin\Debug\netcoreapp3.1\InheritancePerson.exe
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\bin\Debug\netcoreapp3.1\InheritancePerson.deps.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\bin\Debug\netcoreapp3.1\InheritancePerson.runtimeconfig.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\bin\Debug\netcoreapp3.1\InheritancePerson.runtimeconfig.dev.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\bin\Debug\netcoreapp3.1\InheritancePerson.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\bin\Debug\netcoreapp3.1\InheritancePerson.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\obj\Debug\netcoreapp3.1\InheritancePerson.csprojAssemblyReference.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\obj\Debug\netcoreapp3.1\InheritancePerson.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\obj\Debug\netcoreapp3.1\InheritancePerson.AssemblyInfoInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\obj\Debug\netcoreapp3.1\InheritancePerson.AssemblyInfo.cs
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\obj\Debug\netcoreapp3.1\InheritancePerson.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\obj\Debug\netcoreapp3.1\InheritancePerson.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritancePerson\InheritancePerson\obj\Debug\netcoreapp3.1\InheritancePerson.genruntimeconfig.cache
