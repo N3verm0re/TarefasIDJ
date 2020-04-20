@@ -1,0 +1,13 @@
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\obj\Debug\netcoreapp3.1\InheritanceMankind.csprojAssemblyReference.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\obj\Debug\netcoreapp3.1\InheritanceMankind.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\obj\Debug\netcoreapp3.1\InheritanceMankind.AssemblyInfoInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\obj\Debug\netcoreapp3.1\InheritanceMankind.AssemblyInfo.cs
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\bin\Debug\netcoreapp3.1\InheritanceMankind.exe
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\bin\Debug\netcoreapp3.1\InheritanceMankind.deps.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\bin\Debug\netcoreapp3.1\InheritanceMankind.runtimeconfig.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\bin\Debug\netcoreapp3.1\InheritanceMankind.runtimeconfig.dev.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\bin\Debug\netcoreapp3.1\InheritanceMankind.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\bin\Debug\netcoreapp3.1\InheritanceMankind.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\obj\Debug\netcoreapp3.1\InheritanceMankind.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\obj\Debug\netcoreapp3.1\InheritanceMankind.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\InheritanceMankind\InheritanceMankind\obj\Debug\netcoreapp3.1\InheritanceMankind.genruntimeconfig.cache
