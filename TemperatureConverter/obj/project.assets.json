@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\TempratureConverter\\TempratureConverter.csproj",
-      "projectName": "TempratureConverter",
-      "projectPath": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\TempratureConverter\\TempratureConverter.csproj",
+      "projectUniqueName": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\TemperatureConverter\\TemperatureConverter.csproj",
+      "projectName": "TemperatureConverter",
+      "projectPath": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\TemperatureConverter\\TemperatureConverter.csproj",
       "packagesPath": "C:\\Users\\ninaf\\.nuget\\packages\\",
-      "outputPath": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\TempratureConverter\\obj\\",
+      "outputPath": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\TemperatureConverter\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ninaf\\AppData\\Roaming\\NuGet\\NuGet.Config",

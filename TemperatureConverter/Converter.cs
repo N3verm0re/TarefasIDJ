@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace TempratureConverter
+namespace TemperatureConverter
 {
     class Converter
     {

@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.29920.165
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TempratureConverter", "TempratureConverter.csproj", "{ED8F0894-57F8-463E-9104-0CB8FB1F523C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TemperatureConverter", "TemperatureConverter.csproj", "{ED8F0894-57F8-463E-9104-0CB8FB1F523C}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
