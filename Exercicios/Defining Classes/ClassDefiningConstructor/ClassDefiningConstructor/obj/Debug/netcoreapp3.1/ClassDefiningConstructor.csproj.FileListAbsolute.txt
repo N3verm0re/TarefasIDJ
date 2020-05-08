@@ -1,0 +1,13 @@
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\bin\Debug\netcoreapp3.1\ClassDefiningConstructor.exe
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\bin\Debug\netcoreapp3.1\ClassDefiningConstructor.deps.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\bin\Debug\netcoreapp3.1\ClassDefiningConstructor.runtimeconfig.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\bin\Debug\netcoreapp3.1\ClassDefiningConstructor.runtimeconfig.dev.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\bin\Debug\netcoreapp3.1\ClassDefiningConstructor.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\bin\Debug\netcoreapp3.1\ClassDefiningConstructor.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\obj\Debug\netcoreapp3.1\ClassDefiningConstructor.csprojAssemblyReference.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\obj\Debug\netcoreapp3.1\ClassDefiningConstructor.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\obj\Debug\netcoreapp3.1\ClassDefiningConstructor.AssemblyInfoInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\obj\Debug\netcoreapp3.1\ClassDefiningConstructor.AssemblyInfo.cs
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\obj\Debug\netcoreapp3.1\ClassDefiningConstructor.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\obj\Debug\netcoreapp3.1\ClassDefiningConstructor.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningConstructor\ClassDefiningConstructor\obj\Debug\netcoreapp3.1\ClassDefiningConstructor.genruntimeconfig.cache

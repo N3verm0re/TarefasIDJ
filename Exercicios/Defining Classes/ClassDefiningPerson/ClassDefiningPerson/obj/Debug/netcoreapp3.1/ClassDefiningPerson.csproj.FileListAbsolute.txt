@@ -1,0 +1,13 @@
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\bin\Debug\netcoreapp3.1\ClassDefiningPerson.exe
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\bin\Debug\netcoreapp3.1\ClassDefiningPerson.deps.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\bin\Debug\netcoreapp3.1\ClassDefiningPerson.runtimeconfig.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\bin\Debug\netcoreapp3.1\ClassDefiningPerson.runtimeconfig.dev.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\bin\Debug\netcoreapp3.1\ClassDefiningPerson.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\bin\Debug\netcoreapp3.1\ClassDefiningPerson.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\obj\Debug\netcoreapp3.1\ClassDefiningPerson.csprojAssemblyReference.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\obj\Debug\netcoreapp3.1\ClassDefiningPerson.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\obj\Debug\netcoreapp3.1\ClassDefiningPerson.AssemblyInfoInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\obj\Debug\netcoreapp3.1\ClassDefiningPerson.AssemblyInfo.cs
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\obj\Debug\netcoreapp3.1\ClassDefiningPerson.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\obj\Debug\netcoreapp3.1\ClassDefiningPerson.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\Exercicios\Defining Classes\ClassDefiningPerson\ClassDefiningPerson\obj\Debug\netcoreapp3.1\ClassDefiningPerson.genruntimeconfig.cache
