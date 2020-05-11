@@ -6,6 +6,10 @@ namespace WeaponSystem
 {
     class AssaultRifle
     {
+        Barrel barrel;
+        Sights sights;
+        Stock stock;
+
         public bool IsADS { get; set; }
         public double BaseDamage { get; set; }
         public string WeaponName { get; set; }
@@ -15,9 +19,11 @@ namespace WeaponSystem
         public double ReloadSpeed { get; set; }
         public double RPM { get; set; }
 
-        public AssaultRifle()
+        public AssaultRifle(string barrelName, Manufacturer barrelMod, string sightsName, Manufacturer sightsMod, string stockName, Manufacturer stockMod)
         {
-
+            barrel = new Barrel(barrelName, barrelMod);
+            sights = new Sights(sightsName, sightsMod);
+            stock = new Stock(stockName, stockMod);
         }
 
         public void ADS()

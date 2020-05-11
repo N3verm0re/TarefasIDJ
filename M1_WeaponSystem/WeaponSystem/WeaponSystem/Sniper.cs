@@ -6,6 +6,10 @@ namespace WeaponSystem
 {
     public class Sniper : IWeapon
     {
+        SniperSights sights;
+        Stock stock;
+        Magazine magazine;
+
         public bool IsADS { get; set; }
         public double BaseDamage { get; set; }
         public string WeaponName { get; set; }
@@ -15,9 +19,11 @@ namespace WeaponSystem
         public double ReloadSpeed { get; set; }
         public double RPM { get; set; }
 
-        public Sniper()
+        public Sniper(string sightsName, Manufacturer sightsMod, string stockName, Manufacturer stockMod, string magazineName, Manufacturer magazineMod)
         {
-
+            sights = new SniperSights(sightsName, sightsMod);
+            stock = new Stock(stockName, stockMod);
+            magazine = new Magazine(magazineName, magazineMod);
         }
 
         public void ADS()

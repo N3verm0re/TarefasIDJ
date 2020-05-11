@@ -12,5 +12,6 @@ namespace WeaponSystem
         public Dictionary<string, double> barrelMod;
         public Dictionary<string, double> stockMod;
         public Dictionary<string, double> magazineMod;
+        public Dictionary<string, string> shotgunMod;
     }
 }

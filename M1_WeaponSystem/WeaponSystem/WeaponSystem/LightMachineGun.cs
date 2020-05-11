@@ -6,6 +6,10 @@ namespace WeaponSystem
 {
     class LightMachineGun
     {
+        Magazine magazine;
+        Stock stock;
+        Sights sights;
+
         public bool IsADS { get; set; }
         public double BaseDamage { get; set; }
         public string WeaponName { get; set; }
@@ -15,9 +19,11 @@ namespace WeaponSystem
         public double ReloadSpeed { get; set; }
         public double RPM { get; set; }
 
-        public LightMachineGun()
+        public LightMachineGun(string magazineName, Manufacturer magazineMod, string stockName, Manufacturer stockMod, string sightsName, Manufacturer sightsMod)
         {
-
+            magazine = new Magazine(magazineName, magazineMod);
+            stock = new Stock(stockName, stockMod);
+            sights = new Sights(sightsName, sightsMod);
         }
 
         public void ADS()

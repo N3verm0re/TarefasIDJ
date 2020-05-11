@@ -6,6 +6,9 @@ namespace WeaponSystem
 {
     class Shotgun
     {
+        Stock stock;
+        ShotgunMod shotgunMod;
+
         public bool IsADS { get; set; }
         public double BaseDamage { get; set; }
         public string WeaponName { get; set; }
@@ -15,9 +18,10 @@ namespace WeaponSystem
         public double ReloadSpeed { get; set; }
         public double RPM { get; set; }
 
-        public Shotgun()
+        public Shotgun(string stockName, Manufacturer stockMod, string shotgunModName, Manufacturer shotGunModMod)
         {
-
+            stock = new Stock(stockName, stockMod);
+            shotgunMod = new ShotgunMod(shotgunModName, shotGunModMod);
         }
 
         public void ADS()

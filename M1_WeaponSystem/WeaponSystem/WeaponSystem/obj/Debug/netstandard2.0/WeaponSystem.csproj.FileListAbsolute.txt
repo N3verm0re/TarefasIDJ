@@ -4,3 +4,6 @@ D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\WeaponSys
 D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\WeaponSystem\obj\Debug\netstandard2.0\WeaponSystem.AssemblyInfo.cs
 D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\WeaponSystem\bin\Debug\netstandard2.0\WeaponSystem.deps.json
 D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\WeaponSystem\bin\Debug\netstandard2.0\WeaponSystem.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\WeaponSystem\bin\Debug\netstandard2.0\WeaponSystem.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\WeaponSystem\obj\Debug\netstandard2.0\WeaponSystem.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\WeaponSystem\obj\Debug\netstandard2.0\WeaponSystem.pdb

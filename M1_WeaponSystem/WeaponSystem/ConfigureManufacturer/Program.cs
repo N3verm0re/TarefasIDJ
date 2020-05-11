@@ -90,6 +90,37 @@ namespace ConfigureManufacturer
                                 newManufacturer.magazineMod.Add("AmmoCountMod", double.Parse(Console.ReadLine()));
                                 newManufacturer.magazineMod.Add("ReloadSpeedMod", double.Parse(Console.ReadLine()));
 
+                                bool isValidShotgunAction = false;
+                                bool isValidShotgunBarrel = false;
+                                string shotgunAction = null;
+                                string shotgunBarrel = null;
+                                while (!isValidShotgunAction || !isValidShotgunBarrel)
+                                {
+                                    Console.WriteLine("Enter your shotgun action type (semiauto, auto, lever, break, pump) and barrel type (single, double) (in that order):");
+                                    shotgunAction = Console.ReadLine().ToLower();
+                                    shotgunBarrel = Console.ReadLine().ToLower();
+
+                                    if (shotgunAction == "semiauto" || 
+                                        shotgunAction == "auto" || 
+                                        shotgunAction == "semiauto" || 
+                                        shotgunAction == "lever" || 
+                                        shotgunAction == "pump") 
+                                    {
+                                        isValidShotgunAction = true;
+                                    }
+                                    else { Console.WriteLine("Invalid Shotgun Action Type"); }
+
+                                    if(shotgunBarrel == "single" ||
+                                       shotgunBarrel == "double")
+                                    {
+                                        isValidShotgunBarrel = true;
+                                    }
+                                    else { Console.WriteLine("Invalid Shotgun Barrel Type"); }
+                                }
+
+                                newManufacturer.shotgunMod.Add("BarrelType", shotgunBarrel);
+                                newManufacturer.shotgunMod.Add("ActionType", shotgunBarrel);
+
                                 manufacturerList.Add(name, newManufacturer);
                             }
                             else if (secondCommand.ToLower() == "remove")
@@ -181,6 +212,37 @@ namespace ConfigureManufacturer
                             Console.WriteLine("Enter your magazine's ammo count and reload speed modifiers (in that order):");
                             newManufacturer.magazineMod.Add("AmmoCountMod", double.Parse(Console.ReadLine()));
                             newManufacturer.magazineMod.Add("ReloadSpeedMod", double.Parse(Console.ReadLine()));
+
+                            bool isValidShotgunAction = false;
+                            bool isValidShotgunBarrel = false;
+                            string shotgunAction = null;
+                            string shotgunBarrel = null;
+                            while (!isValidShotgunAction || !isValidShotgunBarrel)
+                            {
+                                Console.WriteLine("Enter your shotgun action type (semiauto, auto, lever, break, pump) and barrel type (single, double) (in that order):");
+                                shotgunAction = Console.ReadLine().ToLower();
+                                shotgunBarrel = Console.ReadLine().ToLower();
+
+                                if (shotgunAction == "semiauto" ||
+                                    shotgunAction == "auto" ||
+                                    shotgunAction == "semiauto" ||
+                                    shotgunAction == "lever" ||
+                                    shotgunAction == "pump")
+                                {
+                                    isValidShotgunAction = true;
+                                }
+                                else { Console.WriteLine("Invalid Shotgun Action Type"); }
+
+                                if (shotgunBarrel == "single" ||
+                                   shotgunBarrel == "double")
+                                {
+                                    isValidShotgunBarrel = true;
+                                }
+                                else { Console.WriteLine("Invalid Shotgun Barrel Type"); }
+                            }
+
+                            newManufacturer.shotgunMod.Add("BarrelType", shotgunBarrel);
+                            newManufacturer.shotgunMod.Add("ActionType", shotgunBarrel);
 
                             manufacturerList.Add(name, newManufacturer);
                         }
