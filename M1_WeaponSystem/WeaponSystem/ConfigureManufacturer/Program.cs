@@ -43,6 +43,11 @@ namespace ConfigureManufacturer
                             Console.WriteLine($"File path not valid or file not valid. {e.Message}");
                             validFile = false;
                         }
+                        catch (FileNotFoundException e)
+                        {
+                            Console.WriteLine($"File path not found. {e.Message}");
+                            validFile = false;
+                        }
 
                         if (!validFile) { break; }
                         if (manufacturerList == null || manufacturerList.Count == 0)
@@ -66,30 +71,47 @@ namespace ConfigureManufacturer
                             if (secondCommand.ToLower() == "new")
                             {
                                 Manufacturer newManufacturer = new Manufacturer();
+                                double value;
 
                                 Console.WriteLine("Enter your manufacturer's name:");
                                 string name = Console.ReadLine();
 
+                                newManufacturer.sniperSightsMod = new Dictionary<string, double>();
                                 Console.WriteLine("Enter your sniper sight's zoom and recoil modifier (in that order):");
-                                newManufacturer.sniperSightsMod.Add("ZoomMod", double.Parse(Console.ReadLine()));
-                                newManufacturer.sniperSightsMod.Add("RecoilMod", double.Parse(Console.ReadLine()));
+                                value = double.Parse(Console.ReadLine());
+                                newManufacturer.sniperSightsMod.Add("ZoomMod", value);
+                                value = double.Parse(Console.ReadLine());
+                                newManufacturer.sniperSightsMod.Add("RecoilMod", value);
 
+                                newManufacturer.sightsMod = new Dictionary<string, double>();
                                 Console.WriteLine("Enter your normal weapon sight's zoom and recoil modifier (in that order):");
-                                newManufacturer.sightsMod.Add("ZoomMod", double.Parse(Console.ReadLine()));
-                                newManufacturer.sightsMod.Add("RecoilMod", double.Parse(Console.ReadLine()));
+                                value = double.Parse(Console.ReadLine());
+                                newManufacturer.sightsMod.Add("ZoomMod", value);
+                                value = double.Parse(Console.ReadLine());
+                                newManufacturer.sightsMod.Add("RecoilMod", value);
 
+                                newManufacturer.barrelMod = new Dictionary<string, double>();
                                 Console.WriteLine("Enter your barrel's damage and Rate of Fire modifiers (in that order):");
-                                newManufacturer.barrelMod.Add("DamageMod", double.Parse(Console.ReadLine()));
-                                newManufacturer.barrelMod.Add("RPMMod", double.Parse(Console.ReadLine()));
+                                value = double.Parse(Console.ReadLine());
+                                newManufacturer.barrelMod.Add("DamageMod", value);
+                                value = double.Parse(Console.ReadLine());
+                                newManufacturer.barrelMod.Add("RPMMod", value);
 
+                                newManufacturer.stockMod = new Dictionary<string, double>();
                                 Console.WriteLine("Enter your weapon stock's Hip Fire Innacuracy and ADS Time modifier's (in that order):");
-                                newManufacturer.stockMod.Add("HipFireMod", double.Parse(Console.ReadLine()));
-                                newManufacturer.stockMod.Add("ADSTimeMod", double.Parse(Console.ReadLine()));
+                                value = double.Parse(Console.ReadLine());
+                                newManufacturer.stockMod.Add("HipFireMod", value);
+                                value = double.Parse(Console.ReadLine());
+                                newManufacturer.stockMod.Add("ADSTimeMod", value);
 
+                                newManufacturer.magazineMod = new Dictionary<string, double>();
                                 Console.WriteLine("Enter your magazine's ammo count and reload speed modifiers (in that order):");
-                                newManufacturer.magazineMod.Add("AmmoCountMod", double.Parse(Console.ReadLine()));
-                                newManufacturer.magazineMod.Add("ReloadSpeedMod", double.Parse(Console.ReadLine()));
+                                value = double.Parse(Console.ReadLine());
+                                newManufacturer.magazineMod.Add("AmmoCountMod", value);
+                                value = double.Parse(Console.ReadLine());
+                                newManufacturer.magazineMod.Add("ReloadSpeedMod", value);
 
+                                newManufacturer.shotgunMod = new Dictionary<string, string>();
                                 bool isValidShotgunAction = false;
                                 bool isValidShotgunBarrel = false;
                                 string shotgunAction = null;
@@ -119,7 +141,7 @@ namespace ConfigureManufacturer
                                 }
 
                                 newManufacturer.shotgunMod.Add("BarrelType", shotgunBarrel);
-                                newManufacturer.shotgunMod.Add("ActionType", shotgunBarrel);
+                                newManufacturer.shotgunMod.Add("ActionType", shotgunAction);
 
                                 manufacturerList.Add(name, newManufacturer);
                             }
@@ -189,30 +211,47 @@ namespace ConfigureManufacturer
                         if(secondCommand.ToLower() == "new")
                         {
                             Manufacturer newManufacturer = new Manufacturer();
+                            double value;
 
                             Console.WriteLine("Enter your manufacturer's name:");
                             string name = Console.ReadLine();
 
+                            newManufacturer.sniperSightsMod = new Dictionary<string, double>();
                             Console.WriteLine("Enter your sniper sight's zoom and recoil modifier (in that order):");
-                            newManufacturer.sniperSightsMod.Add("ZoomMod", double.Parse(Console.ReadLine()));
-                            newManufacturer.sniperSightsMod.Add("RecoilMod", double.Parse(Console.ReadLine()));
+                            value = double.Parse(Console.ReadLine());
+                            newManufacturer.sniperSightsMod.Add("ZoomMod", value);
+                            value = double.Parse(Console.ReadLine());
+                            newManufacturer.sniperSightsMod.Add("RecoilMod", value);
 
+                            newManufacturer.sightsMod = new Dictionary<string, double>();
                             Console.WriteLine("Enter your normal weapon sight's zoom and recoil modifier (in that order):");
-                            newManufacturer.sightsMod.Add("ZoomMod", double.Parse(Console.ReadLine()));
-                            newManufacturer.sightsMod.Add("RecoilMod", double.Parse(Console.ReadLine()));
+                            value = double.Parse(Console.ReadLine());
+                            newManufacturer.sightsMod.Add("ZoomMod", value);
+                            value = double.Parse(Console.ReadLine());
+                            newManufacturer.sightsMod.Add("RecoilMod", value);
 
+                            newManufacturer.barrelMod = new Dictionary<string, double>();
                             Console.WriteLine("Enter your barrel's damage and Rate of Fire modifiers (in that order):");
-                            newManufacturer.barrelMod.Add("DamageMod", double.Parse(Console.ReadLine()));
-                            newManufacturer.barrelMod.Add("RPMMod", double.Parse(Console.ReadLine()));
+                            value = double.Parse(Console.ReadLine());
+                            newManufacturer.barrelMod.Add("DamageMod", value);
+                            value = double.Parse(Console.ReadLine());
+                            newManufacturer.barrelMod.Add("RPMMod", value);
 
+                            newManufacturer.stockMod = new Dictionary<string, double>();
                             Console.WriteLine("Enter your weapon stock's Hip Fire Innacuracy and ADS Time modifier's (in that order):");
-                            newManufacturer.stockMod.Add("HipFireMod", double.Parse(Console.ReadLine()));
-                            newManufacturer.stockMod.Add("ADSTimeMod", double.Parse(Console.ReadLine()));
+                            value = double.Parse(Console.ReadLine());
+                            newManufacturer.stockMod.Add("HipFireMod", value);
+                            value = double.Parse(Console.ReadLine());
+                            newManufacturer.stockMod.Add("ADSTimeMod", value);
 
+                            newManufacturer.magazineMod = new Dictionary<string, double>();
                             Console.WriteLine("Enter your magazine's ammo count and reload speed modifiers (in that order):");
-                            newManufacturer.magazineMod.Add("AmmoCountMod", double.Parse(Console.ReadLine()));
-                            newManufacturer.magazineMod.Add("ReloadSpeedMod", double.Parse(Console.ReadLine()));
+                            value = double.Parse(Console.ReadLine());
+                            newManufacturer.magazineMod.Add("AmmoCountMod", value);
+                            value = double.Parse(Console.ReadLine());
+                            newManufacturer.magazineMod.Add("ReloadSpeedMod", value);
 
+                            newManufacturer.shotgunMod = new Dictionary<string, string>();
                             bool isValidShotgunAction = false;
                             bool isValidShotgunBarrel = false;
                             string shotgunAction = null;
@@ -242,7 +281,7 @@ namespace ConfigureManufacturer
                             }
 
                             newManufacturer.shotgunMod.Add("BarrelType", shotgunBarrel);
-                            newManufacturer.shotgunMod.Add("ActionType", shotgunBarrel);
+                            newManufacturer.shotgunMod.Add("ActionType", shotgunAction);
 
                             manufacturerList.Add(name, newManufacturer);
                         }

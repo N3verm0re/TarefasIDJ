@@ -3,3 +3,15 @@ D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\Configure
 D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\obj\Debug\netcoreapp3.1\ConfigureManufacturer.AssemblyInfoInputs.cache
 D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\obj\Debug\netcoreapp3.1\ConfigureManufacturer.AssemblyInfo.cs
 D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\obj\Debug\netcoreapp3.1\ConfigureManufacturer.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\bin\Debug\netcoreapp3.1\ConfigureManufacturer.exe
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\bin\Debug\netcoreapp3.1\ConfigureManufacturer.deps.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\bin\Debug\netcoreapp3.1\ConfigureManufacturer.runtimeconfig.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\bin\Debug\netcoreapp3.1\ConfigureManufacturer.runtimeconfig.dev.json
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\bin\Debug\netcoreapp3.1\ConfigureManufacturer.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\bin\Debug\netcoreapp3.1\ConfigureManufacturer.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\bin\Debug\netcoreapp3.1\WeaponSystem.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\obj\Debug\netcoreapp3.1\ConfigureManufacturer.csproj.CopyComplete
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\obj\Debug\netcoreapp3.1\ConfigureManufacturer.dll
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\obj\Debug\netcoreapp3.1\ConfigureManufacturer.pdb
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\obj\Debug\netcoreapp3.1\ConfigureManufacturer.genruntimeconfig.cache
