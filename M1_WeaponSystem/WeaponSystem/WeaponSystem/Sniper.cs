@@ -13,11 +13,15 @@ namespace WeaponSystem
         public bool IsADS { get; set; }
         public double BaseDamage { get; set; }
         public string WeaponName { get; set; }
-        public double AdsTime { get; set; }
-        public double Recoil { get; set; }
-        public int AmmoCount { get; set; }
-        public double ReloadSpeed { get; set; }
-        public double RPM { get; set; }
+        public double BaseAdsTime { get; set; }
+        public double AdsTime { get => BaseAdsTime + stock.adsTimeMod; set => BaseAdsTime = value; }
+        public double BaseRecoil { get; set; }
+        public double Recoil { get => BaseRecoil + sights.recoilMod; set => BaseRecoil = value; }
+        public int BaseAmmoCount { get; set; }
+        public int AmmoCount { get => BaseAmmoCount + Convert.ToInt32(magazine.ammoCountMod); set => BaseAmmoCount = value; }
+        public double BaseReloadSpeed { get; set; }
+        public double ReloadSpeed { get => BaseReloadSpeed + magazine.reloadSpeedMod; set => BaseReloadSpeed = value; }
+        public double BaseRPM { get; set; }
 
         public Sniper(string sightsName, Manufacturer sightsMod, string stockName, Manufacturer stockMod, string magazineName, Manufacturer magazineMod)
         {
@@ -35,11 +39,11 @@ namespace WeaponSystem
         {
             if (IsADS)
             {
-                //Implement Weapon Firing here with using Recoil info and BaseDamage info
+                //Implement Weapon Firing here with using BaseRecoil info and Damage info
             }
             else
             {
-                //Implement Weapon Firing here with using Recoil + HipFire Innacuracy Stat info and BaseDamage info
+                //Implement Weapon Firing here with using BaseRecoil + HipFire Innacuracy Stat info and Damage info
             }
         }
 
@@ -50,8 +54,8 @@ namespace WeaponSystem
 
         public void Reload()
         {
-            //Get FullAmmo info from Magazine class
-            //AmmoCount = Magazine.FullAmmo
+            //Get FullAmmo info from BaseAmmoCount (or AmmoCount if magazine mod is present)
+            //BaseAmmoCount = Magazine.FullAmmo
         }
     }
 }
