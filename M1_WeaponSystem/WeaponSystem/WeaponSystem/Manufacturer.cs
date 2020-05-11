@@ -5,7 +5,7 @@ using System.Text;
 
 namespace WeaponSystem
 {
-    class Manufacturer
+    public class Manufacturer
     {
         public Dictionary<string, double> sniperSightsMod;
         public Dictionary<string, double> sightsMod;

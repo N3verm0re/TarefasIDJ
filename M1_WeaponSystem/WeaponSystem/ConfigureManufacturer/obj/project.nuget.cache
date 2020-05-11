@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "pFV4tl03np3QvguKLrV3K+68L6+OLoj8j5FjnaaSuULj2JSq7PZ54bTcj+SCaalhgyRCvKyZwuEVQJFKBUwzPA==",
+  "dgSpecHash": "FwqSwlflQiKLZPWDfCmXmQ6QlTbwVlJZN1rq13z8sJ+WGxu6/Yq62wvIK10kBox1tIJWXfx6LqINfN0rYC+WoA==",
   "success": true,
   "projectFilePath": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\M1_WeaponSystem\\WeaponSystem\\ConfigureManufacturer\\ConfigureManufacturer.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ninaf\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
   "logs": []
 }

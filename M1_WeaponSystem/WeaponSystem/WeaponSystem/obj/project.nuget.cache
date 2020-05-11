@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "Juy1H7BN9Nr2ca8ZEknwOxhBJB6bDSfkAfDLLOmPc7X49LflVCB4rUbKT4ri9sHtVezIEHFlXoO/lV3Y6s811Q==",
+  "dgSpecHash": "GWucBPSXU96P44/T9eKRLKga5w5btHDpG4rmi1Us35W7x8/TSoo4K6Se12dcheq/skEmF416MKlK6HhMtddINw==",
   "success": true,
   "projectFilePath": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\M1_WeaponSystem\\WeaponSystem\\WeaponSystem\\WeaponSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ninaf\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
-    "C:\\Users\\ninaf\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+    "C:\\Users\\ninaf\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\ninaf\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
   ],
   "logs": []
 }
