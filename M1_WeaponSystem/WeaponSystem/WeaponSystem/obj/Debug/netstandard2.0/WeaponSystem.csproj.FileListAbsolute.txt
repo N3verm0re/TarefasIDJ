@@ -1,0 +1,4 @@
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\WeaponSystem\obj\Debug\netstandard2.0\WeaponSystem.csprojAssemblyReference.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\WeaponSystem\obj\Debug\netstandard2.0\WeaponSystem.csproj.CoreCompileInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\WeaponSystem\obj\Debug\netstandard2.0\WeaponSystem.AssemblyInfoInputs.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\WeaponSystem\obj\Debug\netstandard2.0\WeaponSystem.AssemblyInfo.cs
