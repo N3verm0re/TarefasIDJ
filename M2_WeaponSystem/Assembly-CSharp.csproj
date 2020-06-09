@@ -63,9 +63,9 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\GunBehaviour.cs" />
     <Compile Include="Assets\Scripts\MouseLook.cs" />
     <Compile Include="Assets\Scripts\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\WeaponManager.cs" />
     <Reference Include="Unity.Timeline.Editor">
       <HintPath>D:/Trabalhos/Ano1Semestre2/IDJ/TarefasIDJ/M2_WeaponSystem/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
@@ -269,6 +269,9 @@
     </Reference>
     <Reference Include="UnityEngine.XRModule">
       <HintPath>C:/Program Files/Unity/Unity 2019.2.21f1 (64 bit)/Unity/Editor/Data/Managed/UnityEngine/UnityEngine.XRModule.dll</HintPath>
+    </Reference>
+    <Reference Include="WeaponSystem">
+      <HintPath>D:/Trabalhos/Ano1Semestre2/IDJ/TarefasIDJ/M2_WeaponSystem/Assets/Plugins/WeaponSystem.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
       <HintPath>C:/Program Files/Unity/Unity 2019.2.21f1 (64 bit)/Unity/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>

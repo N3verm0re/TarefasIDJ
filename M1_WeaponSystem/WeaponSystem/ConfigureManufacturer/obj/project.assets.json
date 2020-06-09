@@ -11,11 +11,21 @@
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
       },
+      "Unity3D.UnityEngine/2018.3.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/UnityEngine.dll": {}
+        },
+        "runtime": {
+          "lib/UnityEngine.dll": {}
+        }
+      },
       "WeaponSystem/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
-          "Newtonsoft.Json": "12.0.3"
+          "Newtonsoft.Json": "12.0.3",
+          "Unity3D.UnityEngine": "2018.3.5.1"
         },
         "compile": {
           "bin/placeholder/WeaponSystem.dll": {}
@@ -56,6 +66,19 @@
         "newtonsoft.json.12.0.3.nupkg.sha512",
         "newtonsoft.json.nuspec",
         "packageIcon.png"
+      ]
+    },
+    "Unity3D.UnityEngine/2018.3.5.1": {
+      "sha512": "63ZCYwGdoBCmsJCUI6dodSY+1TrU/7lTDmfF+492Z6nn8my30E3sb5HXLe7qm7MLvBIcKz9TCy114yu5VGycKA==",
+      "type": "package",
+      "path": "unity3d.unityengine/2018.3.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/UnityEngine.dll",
+        "lib/UnityEngine.xml",
+        "unity3d.unityengine.2018.3.5.1.nupkg.sha512",
+        "unity3d.unityengine.nuspec"
       ]
     },
     "WeaponSystem/1.0.0": {
@@ -134,5 +157,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Unity3D.UnityEngine 2018.3.5.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETCoreApp,Version=v3.1'. This package may not be fully compatible with your project.",
+      "libraryId": "Unity3D.UnityEngine",
+      "targetGraphs": [
+        ".NETCoreApp,Version=v3.1"
+      ]
+    }
+  ]
 }

@@ -15,3 +15,4 @@ D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\Configure
 D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\obj\Debug\netcoreapp3.1\ConfigureManufacturer.dll
 D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\obj\Debug\netcoreapp3.1\ConfigureManufacturer.pdb
 D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\obj\Debug\netcoreapp3.1\ConfigureManufacturer.genruntimeconfig.cache
+D:\Trabalhos\Ano1Semestre2\IDJ\TarefasIDJ\M1_WeaponSystem\WeaponSystem\ConfigureManufacturer\bin\Debug\netcoreapp3.1\UnityEngine.dll

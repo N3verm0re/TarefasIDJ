@@ -1,12 +1,24 @@
 {
   "version": 2,
-  "dgSpecHash": "GWucBPSXU96P44/T9eKRLKga5w5btHDpG4rmi1Us35W7x8/TSoo4K6Se12dcheq/skEmF416MKlK6HhMtddINw==",
+  "dgSpecHash": "yT+IKbfjxXsvMbcD9oC6db1QUjrgQSfaHY9oHbJPYX5OFhLKpIwtO1h5+xjS+sEAT8bylYyQ0eSn3W8tpe86cA==",
   "success": true,
   "projectFilePath": "D:\\Trabalhos\\Ano1Semestre2\\IDJ\\TarefasIDJ\\M1_WeaponSystem\\WeaponSystem\\WeaponSystem\\WeaponSystem.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\ninaf\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\ninaf\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
-    "C:\\Users\\ninaf\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+    "C:\\Users\\ninaf\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\ninaf\\.nuget\\packages\\unity3d.unityengine\\2018.3.5.1\\unity3d.unityengine.2018.3.5.1.nupkg.sha512"
   ],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Unity3D.UnityEngine 2018.3.5.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Unity3D.UnityEngine",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }

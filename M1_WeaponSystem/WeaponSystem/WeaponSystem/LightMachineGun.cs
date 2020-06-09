@@ -1,16 +1,18 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using UnityEngine;
 
 namespace WeaponSystem
 {
-    class LightMachineGun : IWeapon
+    class LightMachineGun : GunBehaviour, IWeapon
     {
         Magazine magazine;
         Stock stock;
         Sights sights;
 
         public bool IsADS { get; set; }
+        public bool IsAutomatic { get; set; }
         public double BaseDamage { get; set; }
         public string WeaponName { get; set; }
         public double BaseAdsTime { get; set; }
@@ -35,27 +37,9 @@ namespace WeaponSystem
             IsADS = !IsADS;
         }
 
-        public void Fire()
-        {
-            if (IsADS)
-            {
-                //Implement Weapon Firing here with using BaseRecoil info and Damage info
-            }
-            else
-            {
-                //Implement Weapon Firing here with using BaseRecoil + HipFire Innacuracy Stat info and Damage info
-            }
-        }
-
         public void Modify()
         {
 
-        }
-
-        public void Reload()
-        {
-            //Get FullAmmo info from BaseAmmoCount (or AmmoCount if magazine mod is present)
-            //BaseAmmoCount = Magazine.FullAmmo
         }
     }
 }

@@ -1,9 +1,7 @@
-﻿using JetBrains.Annotations;
-using System.Collections;
-using System.Collections.Generic;
-using UnityEngine;
+﻿using UnityEngine;
+using WeaponSystem;
 
-public class GunBehaviour : MonoBehaviour
+public class WeaponManager : MonoBehaviour
 {
     public Camera playerCamera;
     void Update()

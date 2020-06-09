@@ -1,10 +1,11 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
+using UnityEngine;
 
 namespace WeaponSystem
 {
-    class AssaultRifle : IWeapon
+    class AssaultRifle : GunBehaviour, IWeapon
     {
         Barrel barrel;
         Sights sights;
@@ -22,6 +23,7 @@ namespace WeaponSystem
         public double BaseReloadSpeed { get; set; }
         public double BaseRPM { get; set; }
         public double RPM { get => BaseRPM + barrel.rpmMod; set => BaseRPM = value; }
+        public bool IsAutomatic { get; set; }
 
         public AssaultRifle(string barrelName, Manufacturer barrelMod, string sightsName, Manufacturer sightsMod, string stockName, Manufacturer stockMod)
         {
@@ -35,27 +37,9 @@ namespace WeaponSystem
             IsADS = !IsADS;
         }
 
-        public void Fire()
-        {
-            if (IsADS)
-            {
-                //Implement Weapon Firing here with using BaseRecoil info and Damage info
-            }
-            else
-            {
-                //Implement Weapon Firing here with using BaseRecoil + HipFire Innacuracy Stat info and Damage info
-            }
-        }
-
         public void Modify()
         {
 
-        }
-
-        public void Reload()
-        {
-            //Get FullAmmo info from BaseAmmoCount (or AmmoCount if magazine mod is present)
-            //BaseAmmoCount = Magazine.FullAmmo
         }
     }
 }

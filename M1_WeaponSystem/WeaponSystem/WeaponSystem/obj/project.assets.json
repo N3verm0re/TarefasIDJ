@@ -34,6 +34,15 @@
         "runtime": {
           "lib/netstandard2.0/Newtonsoft.Json.dll": {}
         }
+      },
+      "Unity3D.UnityEngine/2018.3.5.1": {
+        "type": "package",
+        "compile": {
+          "lib/UnityEngine.dll": {}
+        },
+        "runtime": {
+          "lib/UnityEngine.dll": {}
+        }
       }
     }
   },
@@ -212,12 +221,26 @@
         "newtonsoft.json.nuspec",
         "packageIcon.png"
       ]
+    },
+    "Unity3D.UnityEngine/2018.3.5.1": {
+      "sha512": "63ZCYwGdoBCmsJCUI6dodSY+1TrU/7lTDmfF+492Z6nn8my30E3sb5HXLe7qm7MLvBIcKz9TCy114yu5VGycKA==",
+      "type": "package",
+      "path": "unity3d.unityengine/2018.3.5.1",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/UnityEngine.dll",
+        "lib/UnityEngine.xml",
+        "unity3d.unityengine.2018.3.5.1.nupkg.sha512",
+        "unity3d.unityengine.nuspec"
+      ]
     }
   },
   "projectFileDependencyGroups": {
     ".NETStandard,Version=v2.0": [
       "NETStandard.Library >= 2.0.3",
-      "Newtonsoft.Json >= 12.0.3"
+      "Newtonsoft.Json >= 12.0.3",
+      "Unity3D.UnityEngine >= 2018.3.5.1"
     ]
   },
   "packageFolders": {
@@ -266,6 +289,10 @@
           "Newtonsoft.Json": {
             "target": "Package",
             "version": "[12.0.3, )"
+          },
+          "Unity3D.UnityEngine": {
+            "target": "Package",
+            "version": "[2018.3.5.1, )"
           }
         },
         "imports": [
@@ -281,5 +308,17 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'Unity3D.UnityEngine 2018.3.5.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8' instead of the project target framework '.NETStandard,Version=v2.0'. This package may not be fully compatible with your project.",
+      "libraryId": "Unity3D.UnityEngine",
+      "targetGraphs": [
+        ".NETStandard,Version=v2.0"
+      ]
+    }
+  ]
 }
