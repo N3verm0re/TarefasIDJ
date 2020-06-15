@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using UnityEngine;
 
 namespace WeaponSystem
 {
@@ -21,6 +20,6 @@ namespace WeaponSystem
         void ADS();
 
         //Gets called in weapons constructor to assemble weapon, and everytime a part is swapped out
-        void Modify();
+        //void Modify();
     }
 }

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WeaponSystem
 {
-    class Barrel
+    public class Barrel
     {
         public string manufacturerName;
         public double damageMod;

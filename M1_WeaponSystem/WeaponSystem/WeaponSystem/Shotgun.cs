@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using UnityEngine;
 
 namespace WeaponSystem
 {
-    class Shotgun : GunBehaviour, IWeapon
+    public class Shotgun : GunBehaviour, IWeapon
     {
         Stock stock;
         ShotgunMod shotgunMod;
@@ -32,9 +31,9 @@ namespace WeaponSystem
             IsADS = !IsADS;
         }
 
-        public void Modify()
+        /*public void Modify()
         {
 
-        }
+        }*/
     }
 }

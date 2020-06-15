@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using UnityEngine;
 
 namespace WeaponSystem
 {
-    class LightMachineGun : GunBehaviour, IWeapon
+    public class LightMachineGun : GunBehaviour, IWeapon
     {
         Magazine magazine;
         Stock stock;
@@ -37,9 +36,9 @@ namespace WeaponSystem
             IsADS = !IsADS;
         }
 
-        public void Modify()
+        /*public void Modify()
         {
 
-        }
+        }*/
     }
 }

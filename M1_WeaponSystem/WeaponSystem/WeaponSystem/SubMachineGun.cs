@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using UnityEngine;
 
 namespace WeaponSystem
 {
-    class SubMachineGun : GunBehaviour, IWeapon
+    public class SubMachineGun : GunBehaviour, IWeapon
     {
         Barrel barrel;
         Magazine magazine;
@@ -38,9 +37,9 @@ namespace WeaponSystem
             IsADS = !IsADS;
         }
 
-        public void Modify()
+        /*public void Modify()
         {
 
-        }
+        }*/
     }
 }

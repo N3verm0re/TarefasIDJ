@@ -5,7 +5,7 @@ using System;
 public class GunBehaviour
 {
     public Camera playerCamera;
-    (bool, RaycastHit) Shoot()
+    public (bool, RaycastHit) Shoot()
     {
         RaycastHit hit;
         return (Physics.Raycast(playerCamera.transform.position, playerCamera.transform.forward, out hit), hit);

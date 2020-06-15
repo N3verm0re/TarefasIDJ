@@ -1,11 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using UnityEngine;
 
 namespace WeaponSystem
 {
-    class AssaultRifle : GunBehaviour, IWeapon
+    public class AssaultRifle : GunBehaviour, IWeapon
     {
         Barrel barrel;
         Sights sights;
@@ -37,9 +36,9 @@ namespace WeaponSystem
             IsADS = !IsADS;
         }
 
-        public void Modify()
+        /*public void Modify()
         {
 
-        }
+        }*/
     }
 }

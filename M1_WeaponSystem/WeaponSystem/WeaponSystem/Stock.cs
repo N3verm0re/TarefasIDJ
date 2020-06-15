@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WeaponSystem
 {
-    class Stock
+    public class Stock
     {
         public string manufacturerName;
         public double hipfireMod;

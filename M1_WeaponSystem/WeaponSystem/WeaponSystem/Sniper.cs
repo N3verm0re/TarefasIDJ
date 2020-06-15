@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using UnityEngine;
 
 namespace WeaponSystem
 {
@@ -37,9 +36,9 @@ namespace WeaponSystem
             IsADS = !IsADS;
         }
 
-        public void Modify()
+        /*public void Modify()
         {
             
-        }
+        }*/
     }
 }

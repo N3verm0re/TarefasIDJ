@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WeaponSystem
 {
-    class SniperSights
+    public class SniperSights
     {
         public double recoilMod;
         public double zoomValue;

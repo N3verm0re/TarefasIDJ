@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WeaponSystem
 {
-    class Magazine
+    public class Magazine
     {
         public string manufacturerName;
         public double ammoCountMod;

@@ -4,7 +4,7 @@ using System.Text;
 
 namespace WeaponSystem
 {
-    class ShotgunMod
+    public class ShotgunMod
     {
         public string manufacturerName;
         public string barrelType;
